@@ -78,6 +78,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
-type: git 
+type: git
 repository: https://github.com/niciee/niciee.github.io.git 
 branch: master
